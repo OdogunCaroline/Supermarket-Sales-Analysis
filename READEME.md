@@ -3,7 +3,7 @@
 A O Supermarket is a dataset that reflects on sales of the first quarter in 2019, spanning from January to March .Competitions in supermarkets is high. Therefore, producing insights is essential for boosting sales and revenue. 
 
 ### Objective
-The primary objective of this report is to provide actionable insights that will empower the supermarket to effectively plan for future sales and revenue. Specifically, our goals includes:
+The primary objective of this report is to provide actionable insights that will empower the supermarket to effectively plan for future sales and revenue. Specifically, my goals includes:
 
 - Uncovering purchasing patterns and behaviours of customers across different product categories.
 
