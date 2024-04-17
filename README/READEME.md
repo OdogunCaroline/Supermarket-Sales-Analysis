@@ -1,6 +1,7 @@
 # Supermarket Sales Analysis
 ## Introduction
-The growth of supermarkets in most populated cities are increasing and market competitions are also high. Therefore, producing insights is essential for boosting its sales and revenue. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data.
+A O Supermarket is a dataset that reflects on sales of the first quarter in 2019, spanning from January to March .Competitions in supermarkets is high. Therefore, producing insights is essential for boosting sales and revenue.
+
 ### Objective
 The primary objective of this report is to provide actionable insights that will empower the supermarket to effectively plan for future sales and revenue. Specifically, our goals includes:
 
@@ -12,8 +13,8 @@ The primary objective of this report is to provide actionable insights that will
 
 ### Description of Columns
 - 	Invoice id : Computer generated sales slip invoice identification number
-- Branch: Branch of supercenter (3 branches are available identified by A, B and C).
-- City: Location of supercenters.
+- Branch: Branch of supermarket (3 branches are available identified by A, B and C).
+- City: Location of supermarkets.
 - Customer type: Type of customers, recorded by Members for customers using member card and Normal for without member card.
 - Gender: Gender type of customer
 - Product line: General item categorization groups - Electronic accessories, Fashion accessories, Food and beverages, Health and beauty, Home and lifestyle, Sports and travel.
