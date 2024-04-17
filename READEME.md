@@ -26,7 +26,7 @@ The primary objective of this report is to provide actionable insights that will
 - Time: Purchase time (10am to 9pm).
 - Payment: Payment used by customer for purchase (3 methods are available : Cash, Credit card and Ewallet).
 - COGS: Cost of goods sold.
-- Profit: Income remaining after deducting expenses.
+- Gross Income: Gross Income
 - Rating: Customer satisfaction rating on their overall shopping experience (On a scale of 1 to 10).
 - Month no: Number for each month.
 - Month name: Month name.
